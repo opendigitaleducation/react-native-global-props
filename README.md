@@ -169,7 +169,6 @@ Whether it's a small grammar fix in the README, a huge bug fix, or just an issue
 Some great contributions would be to add customization for the components that currently aren't implemented.
 The following components __have__ been implemented.
 * Image
-* ListView
 * Modal
 * Picker
 * Refresh Control

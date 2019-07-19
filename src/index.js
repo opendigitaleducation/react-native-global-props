@@ -1,5 +1,4 @@
 import { setCustomImage } from './CustomFunctions/setCustomImage';
-import { setCustomListView } from './CustomFunctions/setCustomListView';
 import { setCustomModal } from './CustomFunctions/setCustomModal';
 import { setCustomPicker } from './CustomFunctions/setCustomPicker';
 import { setCustomRefreshControl } from './CustomFunctions/setCustomRefreshControl';
@@ -22,7 +21,6 @@ import { setCustomActivityIndicator } from './CustomFunctions/setCustomActivityI
 
 export {
   setCustomImage,
-  setCustomListView,
   setCustomModal,
   setCustomPicker,
   setCustomRefreshControl,
